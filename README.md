@@ -1,6 +1,6 @@
 # Hi, I'm Shikhar
 
-I'm a Computer Science undergrad at Hansraj College, University of Delhi, interested in **graphics programming, real-time rendering, and building things from scratch.**
+I'm a Computer Science undergrad at Hansraj College, University of Delhi, interested in **graphics programming, real-time rendering, GPUs, and building things from scratch.**
 
 I'm always down for a hackathon or two, and I enjoy going out of my comfort zone to make something I've never made before.
 

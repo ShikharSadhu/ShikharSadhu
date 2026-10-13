@@ -2,13 +2,11 @@
 
 I'm a Computer Science undergrad at Hansraj College, University of Delhi, interested in **graphics programming, real-time rendering, and building things from scratch.**
 
-I enjoy understanding what's happening under the hood, from how a camera moves through a 3D scene to how transformations, shaders, and rendering pipelines bring objects to life.
+I'm always down for a hackathon or two, and I enjoy going out of my comfort zone to make something I've never made before.
 
-Currently exploring OpenGL and C++, building graphics projects, and learning more about the systems that power interactive 3D applications. I'm also interested in using graphics to solve real-world problems, not just make things look cool.
+Besides coding, I like videogames and digital art (things that coincide with my coding interests, funnily enough) and try to keep myself creatively engaged by making art.
 
-Outside of coding, I enjoy photo and video editing, experimenting with creative projects, and participating in hackathons.
-
-## 🌐 Find me around
+## 🌐 Reach out to me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikhar-sadhu/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadhushikhar@gmail.com)
@@ -37,7 +35,6 @@ Outside of coding, I enjoy photo and video editing, experimenting with creative 
 
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
 
 **Data & Scientific Computing**
 
@@ -51,4 +48,3 @@ Outside of coding, I enjoy photo and video editing, experimenting with creative 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-8034A9?style=flat-square&logo=github&logoColor=white)
